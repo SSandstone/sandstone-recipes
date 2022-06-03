@@ -1,0 +1,17 @@
+* {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    background-color: bisque;
+}
+
+h2 {
+    background-color: rgb(7, 0, 68);
+    color:white;
+}
+
+#ravioli {
+    height:auto;
+    width: 250px;
+}
